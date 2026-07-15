@@ -1,4 +1,6 @@
-<a href="https://gitbanner.saviru.me/" target="_blank"><img src="assets/saviru_profile-banner.svg" width="100%" alt="Profile Banner"></a>
+<a href="https://gitbanner.saviru.me/" target="_blank">
+  <img src="saviru_profile-banner.svg" width="100%" alt="Profile Banner">
+</a>
 
 <h1 align="center">Welcome👋My Name : Tarek mohamed latif</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
