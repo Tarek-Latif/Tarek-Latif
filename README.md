@@ -1,6 +1,6 @@
 
 
-<h2 align="center">Hi 👋, I'm >>> Tarek mohamed latif</h2>
+<h1 align="center">Hi 👋My Name : Tarek mohamed latif</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
 
 <img align="right" alt="Coding" width="350"
