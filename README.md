@@ -1,13 +1,4 @@
 
-<div align="center">
-  <img src ="./banner.png" />
-  
-</div>
-
- <br/>
-
-## 👨🏻‍💻 About Me:
-
 
 <h1 align="center">Hi 👋, I'm YOUR NAME</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
