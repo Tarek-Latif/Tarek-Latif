@@ -285,13 +285,13 @@
     </text>
     
     <!-- Shine effect overlay for name -->
-    <text x="400" y="85" font-family="Helvetica, Arial, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="url(#shineGradient)" opacity="0">
+    <text x="400" y="85" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="url(#shineGradient)" opacity="0">
       Tarek mohamed latif
       <animate attributeName="opacity" values="0;1" dur="1.2s" begin="7.2s" fill="freeze" />
     </text>
     
     <!-- Tagline with blue color -->
-    <text x="400" y="130" font-family="Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#8be9fd" opacity="0">
+    <text x="400" y="130" font-family="Helvetica, Arial, sans-serif" font-size="25" text-anchor="middle" fill="#8be9fd" opacity="0">
       Data Analyst
       <animate attributeName="opacity" values="0;1" dur="1.2s" begin="7.6s" fill="freeze" keySplines="0.25, 0.1, 0.25, 1" calcMode="spline" />
       <animate attributeName="y" values="140;130" dur="1.2s" begin="7.6s" fill="freeze" keySplines="0.34, 1.56, 0.64, 1" calcMode="spline" />
