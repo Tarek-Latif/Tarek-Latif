@@ -13,7 +13,7 @@ Skilled in data analysis, dashboard development, KPI tracking, business reportin
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=anaconda,notion,aws,html,css"/>
+<img src="https://skillicons.dev/icons?i=anaconda,notion,aws,html,css,cs,github"/>
 </p>
 <p align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,pandas,numpy,matplotlib,seaborn,r"/>
