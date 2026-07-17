@@ -296,6 +296,55 @@
       <animate attributeName="opacity" values="0;1" dur="1.2s" begin="7.6s" fill="freeze" keySplines="0.25, 0.1, 0.25, 1" calcMode="spline" />
       <animate attributeName="y" values="140;130" dur="1.2s" begin="7.6s" fill="freeze" keySplines="0.34, 1.56, 0.64, 1" calcMode="spline" />
     </text>
+
+    <!-- Address (Left) -->
+<text x="90" y="170"
+      font-family="Helvetica, Arial, sans-serif"
+      font-size="16"
+      fill="#f8f8f2"
+      text-anchor="start"
+      opacity="0">
+  📍 My Location : UAE - Dubai
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="1s"
+           begin="8.0s"
+           fill="freeze" />
+  <animate attributeName="x"
+           values="70;90"
+           dur="1s"
+           begin="8.0s"
+           fill="freeze"
+           calcMode="spline"
+           keySplines="0.25,0.1,0.25,1" />
+</text>
+
+<!-- Phone (Right) -->
+<text x="710" y="170"
+      font-family="Helvetica, Arial, sans-serif"
+      font-size="16"
+      fill="#f8f8f2"
+      text-anchor="end"
+      opacity="0">
+  ☎ +971 542355228
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="1s"
+           begin="8.2s"
+           fill="freeze" />
+  <animate attributeName="x"
+           values="730;710"
+           dur="1s"
+           begin="8.2s"
+           fill="freeze"
+           calcMode="spline"
+           keySplines="0.25,0.1,0.25,1" />
+</text>
+
+
+
+
+
     
     <!-- Add subtle embossing effect with filter -->
     <filter id="blur">
