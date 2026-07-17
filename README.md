@@ -11,13 +11,7 @@ Skilled in data analysis, dashboard development, KPI tracking, business reportin
 
 ## 🛠 Tech Stack
 
-<p align="left">
 
-<img src="https://skillicons.dev/icons?i=anaconda,notion,aws,html,css,cs,github"/>
-</p>
-<p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,pandas,numpy,matplotlib,seaborn,r"/>
-</p>
 Data cleaning |
 Microsoft Excel (Advanced) |
 SQL |
@@ -96,7 +90,14 @@ Problem Solving |
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=anaconda,notion,aws,html,css,cs,github"/>
+</p>
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,python,pandas,numpy,matplotlib,seaborn,r"/>
+</p>
+
+
