@@ -302,7 +302,7 @@
 <!-- Address (Left) -->
 <text x="60" y="170"
       font-family="Helvetica, Arial, sans-serif"
-      font-size="16"
+      font-size="17"
       fill="#f8f8f2"
       text-anchor="start"
       opacity="0">
@@ -320,10 +320,10 @@
 </text>
 
 <!-- Email (Center) -->
-<text x="400" y="170"
+<text x="450" y="170"
       font-family="Helvetica, Arial, sans-serif"
-      font-size="16"
-      fill="#50fa7b"
+      font-size="17"
+      fill="#f8f8f2"
       text-anchor="middle"
       opacity="0">
   ✉ tareklatif76@yahoo.com
@@ -342,7 +342,7 @@
 <!-- Phone (Right) -->
 <text x="740" y="170"
       font-family="Helvetica, Arial, sans-serif"
-      font-size="16"
+      font-size="17"
       fill="#f8f8f2"
       text-anchor="end"
       opacity="0">
