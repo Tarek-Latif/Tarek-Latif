@@ -23,9 +23,26 @@ Skilled in data analysis, dashboard development, KPI tracking, business reportin
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn"/>
 
 </p>
-
-Power BI • Excel • Tableau • PostgreSQL • SQL Server
-
+Data cleaning |
+Microsoft Excel (Advanced) |
+SQL |
+Power BI |
+Python (Pandas, NumPy) |
+Dashboard Development |
+Data Visualization |
+Business Intelligence (BI) |
+KPI Analysis |
+Statistical Analysis |
+Financial Analysis |
+Operational Analysis |
+User Behavior Analysis |
+Healthcare Analytics |
+Production Analysis |
+ETL |
+Reporting & Data Storytelling |
+Decision Support |
+Process Improvement |
+Problem Solving |
 ---
 
 ## 📊 GitHub Stats
