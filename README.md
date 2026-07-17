@@ -39,23 +39,34 @@ Decision Support |
 Process Improvement |
 Problem Solving |
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1)
-
----
-
 ## 📂 Featured Projects
+
+📌 Sales Dashboard (Power BI)
+
+📌 HR Analytics Dashboard
+
+📌 SQL Data Cleaning
+
+📌 Python EDA
+
+📌 Customer Segmentation
+
+📌 Netflix Data Analysis
+
+
+
+---
+## 📜 Certifications
+
+- Google Data Analytics
+- IBM Data Analyst
+- Microsoft Power BI
+- SQL Advanced
+
+
+---
+
+## 📊 Featured Projects
 
 📌 Sales Dashboard (Power BI)
 
@@ -71,12 +82,7 @@ Problem Solving |
 
 ---
 
-## 📜 Certifications
-
-- Google Data Analytics
-- IBM Data Analyst
-- Microsoft Power BI
-- SQL Advanced
+## 🏆 Certificates
 
 ---
 
