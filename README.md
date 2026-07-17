@@ -8,13 +8,12 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📊 Results-driven Data Analyst with experience in operations analysis, production monitoring, and healthcare analytics. Experienced in transforming complex operational and business data into actionable insights that improve performance and support strategic decision-making. Strong background in analyzing user behavior, operational performance, financial metrics, and business KPIs across multiple industries, including manufacturing, digital platforms, and healthcare.
 Skilled in data analysis, dashboard development, KPI tracking, business reporting, operational analytics, financial analysis, user behavior analysis, marketing campaign analysis, and identifying operational improvement opportunities. Proven ability to collaborate with cross-functional teams, automate reporting processes, monitor daily operations, and deliver data-driven recommendations that enhance efficiency, profitability, and customer experience.
----
 
 ## 🛠 Tech Stack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=Microsoft Excel,python,Pandas,NumPy,mysql,Power BI"/>
 
 </p>
 
@@ -43,7 +42,6 @@ Reporting & Data Storytelling |
 Decision Support |
 Process Improvement |
 Problem Solving |
----
 
 ## 📊 GitHub Stats
 
