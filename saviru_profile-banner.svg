@@ -297,8 +297,10 @@
       <animate attributeName="y" values="140;130" dur="1.2s" begin="7.6s" fill="freeze" keySplines="0.34, 1.56, 0.64, 1" calcMode="spline" />
     </text>
 
-    <!-- Address (Left) -->
-<text x="90" y="170"
+
+
+<!-- Address (Left) -->
+<text x="60" y="170"
       font-family="Helvetica, Arial, sans-serif"
       font-size="16"
       fill="#f8f8f2"
@@ -311,16 +313,34 @@
            begin="8.0s"
            fill="freeze" />
   <animate attributeName="x"
-           values="70;90"
+           values="40;60"
            dur="1s"
            begin="8.0s"
-           fill="freeze"
-           calcMode="spline"
-           keySplines="0.25,0.1,0.25,1" />
+           fill="freeze" />
+</text>
+
+<!-- Email (Center) -->
+<text x="400" y="170"
+      font-family="Helvetica, Arial, sans-serif"
+      font-size="16"
+      fill="#50fa7b"
+      text-anchor="middle"
+      opacity="0">
+  ✉ tareklatif76@yahoo.com
+  <animate attributeName="opacity"
+           values="0;1"
+           dur="1s"
+           begin="8.2s"
+           fill="freeze" />
+  <animate attributeName="y"
+           values="180;170"
+           dur="1s"
+           begin="8.2s"
+           fill="freeze" />
 </text>
 
 <!-- Phone (Right) -->
-<text x="710" y="170"
+<text x="740" y="170"
       font-family="Helvetica, Arial, sans-serif"
       font-size="16"
       fill="#f8f8f2"
@@ -330,16 +350,17 @@
   <animate attributeName="opacity"
            values="0;1"
            dur="1s"
-           begin="8.2s"
+           begin="8.4s"
            fill="freeze" />
   <animate attributeName="x"
-           values="730;710"
+           values="760;740"
            dur="1s"
-           begin="8.2s"
-           fill="freeze"
-           calcMode="spline"
-           keySplines="0.25,0.1,0.25,1" />
+           begin="8.4s"
+           fill="freeze" />
 </text>
+
+
+    
 
 
 
