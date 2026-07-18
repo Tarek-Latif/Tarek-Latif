@@ -306,7 +306,7 @@
       fill="#f8f8f2"
       text-anchor="start"
       opacity="0">
-  📍 My Location : UAE - Dubai
+  📍 Location : UAE - Dubai
   <animate attributeName="opacity"
            values="0;1"
            dur="1s"
